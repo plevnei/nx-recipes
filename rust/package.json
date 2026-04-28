@@ -5,7 +5,7 @@
   "scripts": {},
   "private": true,
   "dependencies": {
-    "@monodon/rust": "1.2.0"
+    "@monodon/rust": "1.4.0"
   },
   "devDependencies": {
     "@nx/jest": "17.1.3",
