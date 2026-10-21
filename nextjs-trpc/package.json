@@ -7,7 +7,7 @@
   },
   "private": true,
   "dependencies": {
-    "@trpc/client": "^10.28.0",
+    "@trpc/client": "^10.45.4",
     "@trpc/next": "^10.28.0",
     "@trpc/server": "^10.28.0",
     "axios": "^1.0.0",
